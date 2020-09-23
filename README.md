@@ -30,13 +30,13 @@
 
 </p>
 <p align="center">
-<a href="https://twitter.com/Tubring25">
-<img width="8%" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white">
+<a href="https://twitter.com/Tubring25"  target="_blank">
+<img width="8.5%" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white">
 </a>
-<a href="mailto:tubring25@gmail.com">
+<a href="mailto:tubring25@gmail.com" target="_blank">
 <img width="7%" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white">
 </a>
-<a href="https://github.com/Tubring25">
+<a href="https://github.com/Tubring25" target="_blank">
 <img width="8%" src="https://img.shields.io/badge/-GitHub-111111?style=flat-square&logo=GitHub&logoColor=white">
 </a>
 </p>
