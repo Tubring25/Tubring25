@@ -30,16 +30,18 @@
 
 </p>
 <p align="center">
-<a href="https://twitter.com/Tubring25"  target="_blank">
+<a href="https://twitter.com/Tubring25">
 <img width="8.5%" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white">
 </a>
-<a href="mailto:tubring25@gmail.com" target="_blank">
-<img width="7%" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white">
+<a href="mailto:tubring25@gmail.com">
+<img width="17%" src="https://img.shields.io/badge/-tubring25@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">
 </a>
-<a href="https://github.com/Tubring25" target="_blank">
+<a href="https://github.com/Tubring25">
 <img width="8%" src="https://img.shields.io/badge/-GitHub-111111?style=flat-square&logo=GitHub&logoColor=white">
 </a>
 </p>
 <p align="center">
 💬  <i>Life is crap, but the good news is, we're not alone.</i>
 </p>
+
+---
