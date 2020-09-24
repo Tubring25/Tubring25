@@ -10,7 +10,7 @@
 - 💻 Currently learning ReactJS and Go
 - 📚 Reading more about mystery, technique and CS
 - 🎬 Big fan of PersonOfInterest
-- 💬 Talk to me about anything
+- 📫 Talk to me about anything: <a href="mailto:tubring25@gmail.com">tubring25@gmail.com</a>
 ---
 
 ### ⚒ Languages and Tools
