@@ -5,7 +5,7 @@
 
 ### 🔺 About Me:
 
-- 🧐 23 years old Self-taught Web Developer from China.
+- 🧐 24 years old Self-taught Web Developer from China.
 - 🌱 Interested in all about Open Source
 - 💻 Currently learning ReactJS and Go
 - 📚 Reading more about mystery, technique and CS
@@ -34,7 +34,7 @@
 <img width="8.5%" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white">
 </a>
 <a href="mailto:tubring25@gmail.com">
-<img width="17%" src="https://img.shields.io/badge/-tubring25@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">
+<img width="18%" src="https://img.shields.io/badge/-tubring25@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">
 </a>
 <a href="https://github.com/Tubring25">
 <img width="8%" src="https://img.shields.io/badge/-GitHub-111111?style=flat-square&logo=GitHub&logoColor=white">
