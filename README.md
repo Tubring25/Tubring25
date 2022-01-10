@@ -1,15 +1,12 @@
 # Hi There 👋
 
-<!-- --- -->
-<!-- <img align="right" width="40%" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" /> -->
-
 ### 🔺 About Me:
 
-- 🧐 24 years old Self-taught Web Developer from China.
-- 🌱 Interested in all about Open Source
-- 💻 Currently learning ReactJS and Go
-- 📚 Reading more about mystery, technique and CS
-- 🎬 Big fan of PersonOfInterest  
+- 🧐 Front-end Developer.
+- 🌱 Interested in all about Open Source.
+- 💻 Currently learning ReactJS and Go.
+- 📚 Reading more about mystery, technique and CS.
+- 🎬 Big fan of PersonOfInterest.
 - 📫 Talk to me about anything: <a href="mailto:tubring25@gmail.com">tubring25@gmail.com</a>
 ---
 
@@ -41,7 +38,7 @@
 </a>
 </p>
 <p align="center">
-💬  <i>Life is crap, but the good news is, we're not alone.</i>
+💬  <i>Human life is ephemera,which makes it precious.</i>
 </p>
 
 ---
