@@ -2,10 +2,11 @@
 
 ### 🔺 About Me:
 
-- 🧐 Front-End Developer.
-- 🌱 Interested in all about Open Source.
-- 💻 Currently learning ReactJS and Go.
-- 🎬 Big fan of PersonOfInterest.
+- 🧐 Front-end developer creating user-friendly interfaces.
+- 🌱 Passionate about open source and always eager to learn.
+- 💻 Currently learning Go to broaden programming skills.
+- 🎬 Huge fan of Person of Interest for its storyline and characters.
+- 📚 Enjoys reading books, particularly those written by Ted Chiang.
 - 📫 Talk to me about anything: <a href="mailto:tubring25@gmail.com">tubring25@gmail.com</a>
 ---
 
@@ -16,7 +17,7 @@
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
