@@ -3,7 +3,7 @@
 ### 🔺 About Me:
 
 - 🧐 Front-end developer creating user-friendly interfaces.
-- 🌱 Passionate about open source and always eager to learn.
+- 🌱 Passionate about open source.
 - 💻 Currently learning Go to broaden programming skills.
 - 🎬 Huge fan of Person of Interest for its storyline and characters.
 - 📚 Enjoys reading books, particularly those written by Ted Chiang.
@@ -12,11 +12,11 @@
 
 ### ⚒ Languages and Tools
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
