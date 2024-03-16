@@ -2,11 +2,10 @@
 
 ### 🔺 About Me:
 
-- 🧐 Front-end developer creating user-friendly interfaces.
+- 💻 Front-end developer.
 - 🌱 Passionate about open source.
-- 💻 Currently learning Go to broaden programming skills.
-- 🎬 Huge fan of Person of Interest for its storyline and characters.
-- 📚 Enjoys reading books, particularly those written by Ted Chiang.
+- 🎬 Huge fan of Person of Interest.
+- 📚 Enjoys books, particularly those written by Ted Chiang.
 - 📫 Talk to me about anything: <a href="mailto:tubring25@gmail.com">tubring25@gmail.com</a>
 ---
 
