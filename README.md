@@ -37,7 +37,7 @@
 </a>
 </p>
 <p align="center">
-💬  <i>Human life is ephemera,which makes it precious.</i>
+💬  <i>Human life is ephemeral,which makes it precious.</i>
 </p>
 
 ---
