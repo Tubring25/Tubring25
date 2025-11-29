@@ -26,9 +26,6 @@
 
 </p>
 <p align="center">
-<a href="https://twitter.com/Tubring25">
-<img width="8.5%" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white">
-</a>
 <a href="mailto:tubring25@gmail.com">
 <img width="18%" src="https://img.shields.io/badge/-tubring25@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white">
 </a>
